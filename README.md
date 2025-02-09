@@ -54,7 +54,7 @@ npm install  # Install dependencies
 node index.js    # Start the backend server
 ```
 
-> Add your `OPENAI_API_KEY` in `.env` file in you backend folder.
+> Add your `OPENAI_API_KEY` in `.env` file in your backend folder.
 
 > The backend runs on **[http://localhost:4000](http://localhost:4000)**.
 
