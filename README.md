@@ -1,4 +1,4 @@
-# Node + React Full Stack Application
+# Node + React Application with OpenAI
 
 This is a full-stack web application built using **Node.js** for the backend and **React** (Vite) for the frontend. The project follows a structured folder system with separate `frontend` and `backend` directories.
 
