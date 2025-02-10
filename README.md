@@ -61,7 +61,7 @@ node index.js    # Start the backend server
 ### 3️⃣ Setup Frontend (React)
 
 ```sh
-cd ../frontend
+cd ../frontend/openai-gui
 npm install  # Install dependencies
 npm run dev  # Start the development server
 ```
